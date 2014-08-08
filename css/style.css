@@ -1,0 +1,23 @@
+/* Header */
+.Header{
+
+}
+
+/* Menu */
+.MainMenu{
+	background-color: red;
+	top: 0;
+
+}
+.MainMenu-list{
+margin:0;
+padding: 0;
+
+}
+.MainMenu-item{
+display: inline-block;
+
+}
+.MainMenu-link{
+
+}
